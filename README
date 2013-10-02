@@ -1,0 +1,6 @@
+Esse codigo foi inscrito no sistema operacional Linux Ubuntu 12.05
+Ele usou o compilador g++ obtido usando o comando apt-get
+
+Se voce colocar os arquivos em um diretorio de sua preferencia organizado exatamente como esta no link do github fornecido e chamar
+o comando make voce ira gerar 2 executaveis , um deles eh o proprio programa em si e o outro eh um programa de testes dos metodos
+das classes. 
